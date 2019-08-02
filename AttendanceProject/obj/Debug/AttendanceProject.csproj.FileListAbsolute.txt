@@ -1,0 +1,16 @@
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\bin\Debug\AttendanceProject.exe.config
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\bin\Debug\AttendanceProject.exe.manifest
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\bin\Debug\AttendanceProject.application
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\bin\Debug\AttendanceProject.exe
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\bin\Debug\AttendanceProject.pdb
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\obj\Debug\AttendanceProject.checkAttendance.resources
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\obj\Debug\AttendanceProject.Properties.Resources.resources
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\obj\Debug\AttendanceProject.WorkReport.resources
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\obj\Debug\AttendanceProject.csproj.GenerateResource.cache
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\obj\Debug\AttendanceProject.csproj.CoreCompileInputs.cache
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\obj\Debug\AttendanceProject.TrustInfo.xml
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\obj\Debug\AttendanceProject.exe.manifest
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\obj\Debug\AttendanceProject.application
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\obj\Debug\AttendanceProject.exe
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\obj\Debug\AttendanceProject.pdb
+E:\Degree Program\C# Projects\AttendanceProject\AttendanceProject\obj\Debug\AttendanceProject.csprojAssemblyReference.cache
